@@ -1,0 +1,2 @@
+../Core/Src/SerialCmd.c:29:6:SerialCmd_Init	4	static
+../Core/Src/SerialCmd.c:38:6:SerialCmd_Task	16	static

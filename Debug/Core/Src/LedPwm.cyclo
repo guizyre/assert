@@ -1,0 +1,4 @@
+../Core/Src/LedPwm.c:28:6:LedPwm_Init	2
+../Core/Src/LedPwm.c:43:6:LedPwm_SelectLed	2
+../Core/Src/LedPwm.c:55:6:LedPwm_UpdateSelected	1
+../Core/Src/LedPwm.c:69:4:LedPwm_GetDuty	2

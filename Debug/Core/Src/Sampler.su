@@ -1,0 +1,4 @@
+../Core/Src/Sampler.c:30:6:Sampler_Init	4	static
+../Core/Src/Sampler.c:42:6:Sampler_ProcessSample	24	static
+../Core/Src/Sampler.c:68:6:Sampler_IsAverageReady	4	static
+../Core/Src/Sampler.c:82:4:Sampler_GetAveragePercent	4	static

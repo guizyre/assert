@@ -1,0 +1,5 @@
+../Core/Src/Orquestro.c:34:6:App_InitModules	8	static
+../Core/Src/Orquestro.c:48:6:App_CheckSerialCommands	8	static
+../Core/Src/Orquestro.c:56:6:App_CheckButtonState	8	static
+../Core/Src/Orquestro.c:64:6:App_ProcessSamplingAndPWM	16	static
+../Core/Src/Orquestro.c:91:6:App_PrintStatusEverySecond	40	static

@@ -1,0 +1,4 @@
+../Core/Src/Sampler.c:30:6:Sampler_Init	1
+../Core/Src/Sampler.c:42:6:Sampler_ProcessSample	2
+../Core/Src/Sampler.c:68:6:Sampler_IsAverageReady	2
+../Core/Src/Sampler.c:82:4:Sampler_GetAveragePercent	1
